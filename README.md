@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm [Your Name], a web developer who loves to build beautiful, responsive, and user-friendly websites. 
+I'm Hadhi rahman MT, a web developer who loves to build beautiful, responsive, and user-friendly websites. 
 
 ## Skills
 
@@ -31,6 +31,6 @@ Here are some of the projects that I've worked on:
 
 ## Contact me
 
-- Email: your.email@example.com
+- Email: hadhirahmanmt@gmail.com
 - LinkedIn: [Your LinkedIn profile](link)
 - Twitter: [@YourTwitterHandle](link)
